@@ -32,6 +32,7 @@ New Features
 * **JMS Alarm Northbounder**: The implementation of a JMS northbounder for sending OpenNMS Alarms to external JMS listeners has been completed. Thanks to David Schlenk (@dschlenk) for this contribution!
 * **OTRS 3.1+ Ticketing Integration**: Our OTRS ticketing integration has been updated to work with the API in OTRS 3.1 and higher. Thanks to Jonathan Sartin (@blackpoplar) for this contribution!
 * **Easier Remote Poller Configuration**: Monitoring locations can now be associated with multiple polling and collection packages. This can make some Remote Poller scenarios easier to configure.
+* **JMX and Karaf Authentication**: RMI access to JMX and SSH access to Karaf now require authentication as a valid OpenNMS admin user.
 
 Dependency Updates
 ------------------
