@@ -107,5 +107,8 @@
     <module>ncs</module>
     <module>springframework-security</module>
     <module>system-report</module>
+
+    <!-- AMQP Connector -->
+    <module>amqp</module>
   </modules>
 </project>

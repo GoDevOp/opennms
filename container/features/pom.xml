@@ -206,6 +206,7 @@
             <feature>nrtg</feature>
             <feature>opennms-activemq-event-forwarder</feature>
             <feature>opennms-activemq-event-receiver</feature>
+            <feature>opennms-amqp</feature>
             <feature>opennms-topology-dev</feature>
             <feature>opennms-topology-runtime-base</feature>
             <feature>opennms-topology-runtime-browsers</feature>
